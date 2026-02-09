@@ -1,4 +1,4 @@
-# VecLSTM + VOADT: Vectorized Trajectory Learning & Online Anomaly Detection
+# VOADT: Vectorized Trajectory Learning & Online Anomaly Detection
 
 This repository contains two related pipelines:
 
