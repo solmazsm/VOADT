@@ -27,7 +27,6 @@ VOADT uses **dynamic vectorization** to transform variable-length trajectories i
 The GeoLife dataset contains GPS trajectories from 182 users over three years, providing a comprehensive view of outdoor activities. It includes 1,467,652 samples with 7 distinct labels. This dataset is ideal for training models that predict human activity from trajectory data.
 
 - **Dataset details**: [GeoLife Dataset](https://www.microsoft.com/en-us/research/project/geolife/)
-- **Usage**: The GeoLife dataset is used to evaluate the VecLSTM model on large-scale real-world trajectory data.
 
 ## Methodology
 
