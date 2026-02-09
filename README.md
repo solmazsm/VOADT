@@ -70,7 +70,6 @@ Most VOADT experiments in this repo are run in WSL (Ubuntu) with conda (example 
 ```bash
 source ~/miniconda3/etc/profile.d/conda.sh
 conda activate voadt_cuda
-cd /mnt/c/Users/<YOU>/VecLSTM
 ```
 
 ### Generate outlier test sets (Detour / Route-switching)
