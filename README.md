@@ -176,6 +176,7 @@ python VOADT/tools/benchmark_voadt_veclstm_scoring_time.py --dataset porto --mod
 
 The following is the structure of this project:
 
+```
 VecLSTM/
 ├── VecLSTM/                         # VecLSTM core code (vectorization + CNN/LSTM)
 ├── vectorization/                   # vectorization utilities
@@ -193,9 +194,6 @@ VecLSTM/
 ├── LICENSE
 └── README.md
 ```
-
-
-
   
 
 For any questions, concerns, or comments for improvements, etc, please create an issue on the issues page for this project, or email the authors directly.
